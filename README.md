@@ -11,4 +11,4 @@ Does not require any installation.clone the following repository to your desktop
 Pull requests are welcome.It is recommended that you open an issue and discuss the changes you would like to make.
 
 <div><b>Licensing</b></div>
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the <a href="https://choosealicense.com/licenses/mit/">MIT License</a>.
