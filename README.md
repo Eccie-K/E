@@ -1,5 +1,5 @@
 # <div>Portfolio</div>
-A webpage that provides a brief description of an individual
+Portfolio is a webpage that provides a brief description of an individual
 
 <div><b>Languages used</b></div>
 HTML 5 and CSS
