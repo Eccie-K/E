@@ -1,5 +1,5 @@
 # Portfolio
-A webpage that provides a brief description of an indivial
+A webpage that provides a brief description of an individual
 #Languages used
 HTML 5 and CSS
 Access
