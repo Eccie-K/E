@@ -1,6 +1,8 @@
 # <div>Portfolio</div>
 Portfolio is a webpage that provides a brief description of an individual
 
+<div><b>Author:</b> Esther</div>
+
 <div><b>Languages used</b></div>
 HTML 5 and CSS
 
