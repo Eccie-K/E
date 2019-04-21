@@ -6,7 +6,7 @@ Portfolio is a webpage that provides a brief description of an individual
 <div><b>Languages used</b></div>
 HTML 5 and CSS
 
-<div><b>Access</b></div>
+<div><b>Usage</b></div>
 Does not require any installation.Clone the following repository to your desktop to locate,access and display it:https://github.com/Eccie-K/E.git.
 
 <div><b>Contributions</b></div>
